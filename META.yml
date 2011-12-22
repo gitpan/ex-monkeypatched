@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               ex-monkeypatched
-version:            0.02
+version:            0.03
 abstract:           Experimental API for safe monkey-patching
 author:
     - Aaron Crane <arc@cpan.org>
